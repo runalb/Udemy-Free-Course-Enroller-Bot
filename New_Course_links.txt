@@ -1,0 +1,18 @@
+----- REMOVE ALL OLD DATA AND ADD NEW LINKS BEFORE RUNING BOT ------
+
+
+
+---- SAMPLE DATA ---
+Java Programming Masterclass for Software Developers
+
+https://www.tutorialbar.com/java-programming-masterclass-for-software-developers/
+
+https://www.tutorialbar.com/web-hacking-for-beginners/
+
+Learn Complete Calculus 1 from scratch
+
+https://www.tutorialbar.com/learn-complete-calculus-1-from-scratch/
+
+Clean Code with PHP examples
+
+https://www.tutorialbar.com/clean-code-with-php-examples/
