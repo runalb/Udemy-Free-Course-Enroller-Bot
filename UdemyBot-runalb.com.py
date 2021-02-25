@@ -12,9 +12,9 @@ def wait():
 
 
 def title():
-    print("\n-----------------------------------")
-    print("--------    Runal's Bot    --------")
-    print("-----------------------------------\n")
+    print("\n-----------------------------------------")
+    print("--------    Runal's Udemy Bot    --------")
+    print("-----------------------------------------\n")
 
 
 def open_chrome_browser(path):
@@ -135,10 +135,10 @@ def btn_enroll_now():
 
 
 
-email = "runalb.mi@gmail.com"
-password = "runal@udemy"
-browser_path = "D:/D/Project_P/UdyBotPy/chromedriver.exe"
-botname = "[Bot]"
+email = "ADD YOUR EMAIL ID HERE"
+password = "ADD YOUR PASSWORD HERE"
+browser_path = "chromedriver.exe"
+botname = "[Runal's Udemy Bot]"
 count = 0
 t_sec = 4
 error_url_li = []
