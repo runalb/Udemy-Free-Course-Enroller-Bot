@@ -19,7 +19,7 @@ def title():
 
 def open_chrome_browser(path):
     global driver
-    driver= webdriver.Chrome(path)
+    driver = webdriver.Chrome(path)
 
 
 def open_udmy_site():
@@ -165,6 +165,7 @@ for tb_course_url in tb_course_link_list:
     wait()
     btn_tp_enroll_now().click()
     print("{} {}. Switching to udmey site....".format(botname, count))
+    wait()
     switch_to_tab2()
     wait()
 
